@@ -1,6 +1,8 @@
 # Quiz app
 This example showcases a straightforward quiz application with a results feature.
 
-![Alt text](image.png)
+## Question
+![Question](Question.png)
 
-![Alt text](image-1.png)
+## Output
+![Output](Output.png)
