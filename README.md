@@ -2,9 +2,9 @@
 This repository contains several examples and samples related to the Power Platform.
 
 ## Power Platform Samples
-- [Cascading dropdown](./PowerAppsSamples/Cascading_Dropdowns/){:target="_blank"}
-- [Simple quiz app](./PowerAppsSamples/Simple_Quiz_App/){:target="_blank"}
-- [SharePoint patch function](./PowerAppsSamples/Patch_SharePoint_Complex_Columns/){:target="_blank"}
+- [Cascading dropdown](./PowerAppsSamples/Cascading_Dropdowns/)
+- [Simple quiz app](./PowerAppsSamples/Simple_Quiz_App/)
+- [SharePoint patch function](./PowerAppsSamples/Patch_SharePoint_Complex_Columns/)
 
 ## Power Automate Samples
 - [Convert doc file to pdf](./PowerAutomateSamples/Convert_Doc_To_PDF/)
