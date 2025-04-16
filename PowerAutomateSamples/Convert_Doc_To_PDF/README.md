@@ -8,6 +8,3 @@ This example demonstrates the process of converting a SharePoint document file i
 ## Output
 
 ![Output](Output.png)
-
-
-
