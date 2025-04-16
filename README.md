@@ -1,7 +1,7 @@
 # Power-Platform-Demos
-This repository contains several examples and samples related to the Power Platform.
+This repository contains several examples and samples related to the PowerApps and Power Automate.
 
-## Power Platform Samples
+## PowerApps Samples
 - [Cascading dropdown](./PowerAppsSamples/Cascading_Dropdowns/)
 - [Simple quiz app](./PowerAppsSamples/Simple_Quiz_App/)
 - [SharePoint patch function](./PowerAppsSamples/Patch_SharePoint_Complex_Columns/)
